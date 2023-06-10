@@ -1,0 +1,2 @@
+# i2c-arduino-
+this code is used for operating i2c lcd screen with arduino. in this repository there are two codes  one will read the adress of the i2c devise connected to arduino after finding the i2c address of lcd we need to edit another code and replace existing address by the address we got before and upload to to arduino and it will display whatever you programme it to. (connect scl pin to A5 and sda to A4 . connect vcc to 5v of arduino and ground to ground) .          if you use seperate source for lcd make sure to cammon the ground of arduino and lcd.
