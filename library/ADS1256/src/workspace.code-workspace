@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\ads1256\\ADC_code"
+		},
+		{
+			"name": "010-ADS1256",
+			"path": ".."
+		},
+		{
+			"name": "PIO_v1.0",
+			"path": "..\\..\\..\\..\\Documents\\PlatformIO\\Projects\\PIO_v1.0"
+		}
+	],
+	"settings": {}
+}
